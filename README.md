@@ -11,6 +11,11 @@
       <td>Douda</td>
       <td>-</td>
     </tr>
+    <tr>
+      <td>Pavel</td>
+      <td>Sotola</td>
+      <td>2ITC</td>
+    </tr>
   </table>
   </body>
 </html>
