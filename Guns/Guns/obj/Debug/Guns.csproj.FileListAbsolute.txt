@@ -1,0 +1,11 @@
+C:\Users\adamm\source\repos\Guns\Guns\bin\Debug\Guns.exe.config
+C:\Users\adamm\source\repos\Guns\Guns\bin\Debug\Guns.exe
+C:\Users\adamm\source\repos\Guns\Guns\bin\Debug\Guns.pdb
+C:\Users\adamm\source\repos\Guns\Guns\obj\Debug\Guns.csproj.AssemblyReference.cache
+C:\Users\adamm\source\repos\Guns\Guns\obj\Debug\Guns.csproj.SuggestedBindingRedirects.cache
+C:\Users\adamm\source\repos\Guns\Guns\obj\Debug\Guns.Form1.resources
+C:\Users\adamm\source\repos\Guns\Guns\obj\Debug\Guns.Properties.Resources.resources
+C:\Users\adamm\source\repos\Guns\Guns\obj\Debug\Guns.csproj.GenerateResource.cache
+C:\Users\adamm\source\repos\Guns\Guns\obj\Debug\Guns.csproj.CoreCompileInputs.cache
+C:\Users\adamm\source\repos\Guns\Guns\obj\Debug\Guns.exe
+C:\Users\adamm\source\repos\Guns\Guns\obj\Debug\Guns.pdb
