@@ -1,0 +1,15 @@
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\bin\Debug\net6.0\Multithreadingtest.exe
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\bin\Debug\net6.0\Multithreadingtest.deps.json
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\bin\Debug\net6.0\Multithreadingtest.runtimeconfig.json
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\bin\Debug\net6.0\Multithreadingtest.dll
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\bin\Debug\net6.0\Multithreadingtest.pdb
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\Multithreadingtest.csproj.AssemblyReference.cache
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\Multithreadingtest.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\Multithreadingtest.AssemblyInfoInputs.cache
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\Multithreadingtest.AssemblyInfo.cs
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\Multithreadingtest.csproj.CoreCompileInputs.cache
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\Multithreadingtest.dll
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\refint\Multithreadingtest.dll
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\Multithreadingtest.pdb
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\Multithreadingtest.genruntimeconfig.cache
+C:\Users\risaf\source\repos\Multithreadingtest\Multithreadingtest\obj\Debug\net6.0\ref\Multithreadingtest.dll
