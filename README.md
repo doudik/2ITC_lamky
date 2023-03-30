@@ -12,8 +12,23 @@
       <td>-</td>
     </tr>
     <tr>
+      <td>Martin</td>
+      <td>Jeřábek</td>
+      <td>2ITC</td>
+    </tr>
+    <tr>
       <td>Richard</td>
       <td>Florian</td>
+      <td>2ITC</td>
+    </tr>
+    <tr>
+      <td>ADAM</td>
+      <td>DOLEŽAL</td>
+      <td>2ITC wtf</td>
+    </tr>
+    <tr>
+      <td>Tomáš</td>
+      <td>Procházka</td>
       <td>2ITC</td>
     </tr>
   </table>
