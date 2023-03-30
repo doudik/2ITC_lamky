@@ -27,6 +27,11 @@
       <td>2ITC wtf</td>
     </tr>
     <tr>
+      <td>Vladimír</td>
+      <td>Voršilka</td>
+      <td>2ITC</td>
+    </tr>
+    <tr>
       <td>Tomáš</td>
       <td>Procházka</td>
       <td>2ITC</td>
