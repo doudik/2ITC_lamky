@@ -31,6 +31,11 @@
       <td>Procházka</td>
       <td>2ITC</td>
     </tr>
+    <tr>
+      <td>Zdenek</td>
+      <td>Vostrovsky</td>
+      <td>2ITC</td>
+    </tr>
   </table>
   </body>
 </html>
