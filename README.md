@@ -21,14 +21,19 @@
       <td>Florian</td>
       <td>2ITC</td>
     </tr>
-     <tr>
+    <tr>
       <td>ADAM</td>
       <td>DOLEŽAL</td>
       <td>2ITC wtf</td>
     </tr>
-     <tr>
+    <tr>
       <td>Vladimír</td>
       <td>Voršilka</td>
+      <td>2ITC</td>
+    </tr>
+    <tr>
+      <td>Tomáš</td>
+      <td>Procházka</td>
       <td>2ITC</td>
     </tr>
   </table>
