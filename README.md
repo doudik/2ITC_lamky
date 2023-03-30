@@ -12,7 +12,7 @@
 		</tr>
 		<tr>
 			<td>Adam</td>
-			<td>Doležal</td>
+			<td>Doležal </td>
 			<td>2ITC</td>
 		</tr>
 	</tbody>
