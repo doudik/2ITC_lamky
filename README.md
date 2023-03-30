@@ -12,8 +12,8 @@
       <td>-</td>
     </tr>
     <tr>
-      <td>Tomáš</td>
-      <td>Procházka</td>
+      <td>Richard</td>
+      <td>Florian</td>
       <td>2ITC</td>
     </tr>
   </table>
