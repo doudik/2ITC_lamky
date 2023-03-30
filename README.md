@@ -31,6 +31,18 @@
       <td>Procházka</td>
       <td>2ITC</td>
     </tr>
+    <tr>
+      <td>Petr</td>
+      <td>Polák</td>
+      <td>2ITC</td>
+    </tr>
+      <tr>
+      <td>Adam</td>
+      <td>Máka</td>
+      <td>2ITC</td>
+    </tr>
+
+
   </table>
   </body>
 </html>
