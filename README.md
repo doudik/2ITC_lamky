@@ -10,6 +10,9 @@
       <td>Miroslav</td>
       <td>Douda</td>
       <td>-</td>
+      <td>Richard</td>
+      <td>Florian</td>
+      <td>-</td>
     </tr>
   </table>
   </body>
