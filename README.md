@@ -26,6 +26,11 @@
       <td>DOLEŽAL</td>
       <td>2ITC wtf</td>
     </tr>
+     <tr>
+      <td>Jan</td>
+      <td>Adam</td>
+      <td>2ITC</td>
+      </tr>
     <tr>
       <td>Tomáš</td>
       <td>Procházka</td>
