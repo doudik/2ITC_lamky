@@ -12,6 +12,11 @@
       <td>-</td>
     </tr>
     <tr>
+      <td>Martin</td>
+      <td>Jeřábek</td>
+      <td>2ITC</td>
+    </tr>
+    <tr>
       <td>Richard</td>
       <td>Florian</td>
       <td>2ITC</td>
