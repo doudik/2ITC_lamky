@@ -2,6 +2,7 @@
   <head>
   </head>
   <body>
+  <h1>Toto je hodně chabý seznam lidí z 2ITC</h1>
   <table>
     <th>Jméno</th>
     <th>Příjmení</th>
