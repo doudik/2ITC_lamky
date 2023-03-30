@@ -26,11 +26,16 @@
       <td>DOLEŽAL</td>
       <td>2ITC wtf</td>
     </tr>
-    <tr>
-      <td>Tomáš</td>
-      <td>Procházka</td>
-      <td>2ITC</td>
-    </tr>
+	<tr>
+	<td>Matouš</td>
+	<td>Studihrad</td>
+	<td>2ITC</td>
+	</tr>
+  <tr>
+  <td>Tomáš</td>
+  <td>Procházka</td>
+  <td>2ITC</td>
+  </tr>
   </table>
   </body>
 </html>
