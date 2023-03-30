@@ -12,10 +12,6 @@
       <td>-</td>
     </tr>
     <tr>
-<<<<<<< HEAD
-      <td>Pavel</td>
-      <td>Sotola</td>
-=======
       <td>Martin</td>
       <td>Jeřábek</td>
       <td>2ITC</td>
@@ -33,7 +29,6 @@
     <tr>
       <td>Tomáš</td>
       <td>Procházka</td>
->>>>>>> 998d5f223b31cdcc10f364777bc8d022373815d2
       <td>2ITC</td>
     </tr>
     <tr>
